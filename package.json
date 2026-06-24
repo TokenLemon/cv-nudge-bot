@@ -1,0 +1,12 @@
+{
+  "name": "cv-nudge-bot",
+  "version": "2.0.0",
+  "description": "Slack bot that nudges Hiring Managers when CV feedback is overdue — no database needed!",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@slack/bolt": "^3.17.1"
+  }
+}
